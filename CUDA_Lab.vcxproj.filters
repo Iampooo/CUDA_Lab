@@ -15,6 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <CudaCompile Include="Setup.cu" />
+    <CudaCompile Include="VectorAdd.cu" />
   </ItemGroup>
 </Project>
